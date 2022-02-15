@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    " # ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:end_stone"
+    },
+    "#": {
+      "item": "minecraft:arrow"
+    },
+    "Y": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "arrowsplus:end_arrow",
+    "count": 1
+  }
+}

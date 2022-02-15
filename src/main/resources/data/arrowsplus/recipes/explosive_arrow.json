@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZYZ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:arrow"
+    },
+    "Y": {
+      "item": "minecraft:gunpowder"
+    },
+    "Z": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "arrowsplus:explosive_arrow",
+    "count": 1
+  }
+}

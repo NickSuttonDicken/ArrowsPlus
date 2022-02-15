@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "arrowsplus",
+  "version": "${version}",
+  "name": "ArrowsPlus",
+  "description": "",
+  "authors": [
+    "FroztiGaming"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/arrowsplus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "froztigaming.arrowsplus.client.ArrowsPlusClient"
+    ],
+    "main": [
+      "froztigaming.arrowsplus.ArrowsPlus"
+    ]
+  },
+  "mixins": [
+    "arrowsplus.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.2",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}

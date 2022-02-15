@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Y ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:arrow"
+    },
+    "Y": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "arrowsplus:lightning_arrow",
+    "count": 1
+  }
+}

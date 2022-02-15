@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Y ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:arrow"
+    },
+    "Y": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "arrowsplus:undead_arrow",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "arrowsplus:end_arrow",
+    "arrowsplus:ender_arrow",
+    "arrowsplus:explosive_arrow",
+    "arrowsplus:fire_arrow",
+    "arrowsplus:ice_arrow",
+    "arrowsplus:lightning_arrow",
+    "arrowsplus:nether_arrow",
+    "arrowsplus:undead_arrow"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Y ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:arrow"
+    },
+    "Y": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "arrowsplus:fire_arrow",
+    "count": 1
+  }
+}

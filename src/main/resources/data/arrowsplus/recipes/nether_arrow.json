@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    " # ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "#": {
+      "item": "minecraft:arrow"
+    },
+    "Y": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "arrowsplus:nether_arrow",
+    "count": 1
+  }
+}
